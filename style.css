@@ -58,18 +58,6 @@ main {
   animation: float 5s ease-in-out infinite;
 }
 
-.hello {
-  position: absolute;
-  top: 9%;
-  right: 0;
-  padding: 11px 16px;
-  border-radius: 18px 18px 18px 3px;
-  background: var(--cream);
-  color: var(--forest);
-  font-size: 14px;
-  transform: rotate(8deg);
-}
-
 .sparkle {
   position: absolute;
   color: var(--mint);
@@ -161,11 +149,6 @@ a:focus-visible {
 
   main {
     padding-block: 36px;
-  }
-
-  .hello {
-    top: 4%;
-    font-size: 12px;
   }
 }
 
